@@ -1,0 +1,1 @@
+print("Halo Mini Class Academy")
